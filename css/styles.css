@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
-	background: #333;
+	background: linear-gradient(#5d9ff5, #3c6aa5);
 	color: #f3f3f3;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 .todo-input::placeholder {
-	color: #fff;
+	color: #ebebeb;
 }
 
 .todo,
